@@ -1,0 +1,1 @@
+array(1) { ["error"]=> array(4) { ["message"]=> string(81) "(#100) Tried accessing nonexisting field (business_discovery) on node type (Page)" ["type"]=> string(14) "OAuthException" ["code"]=> int(100) ["fbtrace_id"]=> string(23) "A7ZbCXIz1jQkFrW8x2fb4DZ" } }

@@ -1,0 +1,2 @@
+Long Lived Access Token
+Facebook\Authentication\AccessToken Object ( [value:protected] => EAAbBFtaPxX4BAHmAnwBxYS4Ej43GJfJTDXBLNZB9XWSCBljYxpUCnxJqcVyOYRyOvLrfrQtGYWYEpfvJ9FWk7EPGHkUiieQYbI4xetZB7fxROOUbT7a3v4QOZCQUZBXXaLO3KEFxlZBwoKZBS8hoOWL8GNhnzsdrGIq3rZClCTZCmgZDZD [expiresAt:protected] => DateTime Object ( [date] => 2020-07-29 15:32:25.000000 [timezone_type] => 3 [timezone] => Europe/Berlin ) )
